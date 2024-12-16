@@ -8,4 +8,4 @@ Cada pasta contém sob qual(is) módulos a estação foi desenvolvida, mas falan
 Cada exemplo possui seus sketches e junto aos sketches tem as bibliotecas utilizadas como seus respectivos esquemáticos de montagem.
 Vale ressaltar que para o exemplo foi utilizado um `ESP-32` e também deixei a conexão com o `Wi-Fi` já pronta, caso queiram a utilizar ou conectar a um serviço de coletas de métricas como o `J3M`.
 
-Link do post no `LinkedIn`: xxx
+Link do post no [LinkedIn](https://www.linkedin.com/posts/jefferson-frade_php-iot-arduino-activity-7274573102393536512-Jqab)
